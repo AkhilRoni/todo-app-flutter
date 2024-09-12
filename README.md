@@ -1,23 +1,40 @@
-<<<<<<< HEAD
-# tudo
+Todo App
+Introduction
+The Todo App is a simple and intuitive application developed using Flutter and Firebase. It allows users to manage their tasks efficiently with features like adding, deleting, and marking tasks as complete. Real-time synchronization ensures your tasks are always up-to-date.
 
-# Todo App
+Features
 
-A simple todo app developed with Flutter and Firebase.
 
-## Features
+Add Tasks: Easily add new tasks to your list.
+Delete Tasks: Remove tasks that are no longer needed.
+Mark Tasks as Complete: Track your progress by marking tasks as complete.
+Real-Time Synchronization: Your tasks are synchronized with Firebase in real-time.
 
-- Add, delete, and mark tasks as complete.
-- Real-time synchronization with Firebase.
 
-## Getting Started
+Screenshots
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-app-flutter.git`
-2. Navigate to the project directory.
-3. Run `flutter pub get` to install dependencies.
-4. Run `flutter run` to start the app.
+Replace the placeholder paths with the actual paths to your screenshot images.
 
-=======
-# todo-app-flutter
-Tasks app with Flutter
->>>>>>> 6a8bec7d5c3d79c49598b58913078237b3d927a3
+Installation
+
+To set up the Todo App on your local machine, follow these steps:
+
+Clone the Repository:
+git clone https://github.com/your-username/todo-app-flutter.git
+
+Navigate to the Project Directory:
+
+cd todo-app-flutter
+
+Install Dependencies:
+
+flutter pub get
+
+Run the App:
+
+flutter run
+
+APK Download
+You can also download and install the APK file directly on your Android device:
+
+Download APK: Download APK
