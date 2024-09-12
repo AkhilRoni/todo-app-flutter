@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tudo
 
 # Todo App
@@ -16,3 +17,7 @@ A simple todo app developed with Flutter and Firebase.
 3. Run `flutter pub get` to install dependencies.
 4. Run `flutter run` to start the app.
 
+=======
+# todo-app-flutter
+Tasks app with Flutter
+>>>>>>> 6a8bec7d5c3d79c49598b58913078237b3d927a3
