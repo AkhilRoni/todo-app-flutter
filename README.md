@@ -39,7 +39,7 @@ To set up the Todo App on your local machine, follow these steps:
 
 You can also download and install the APK file directly on your Android device:
 
-- **Download APK**: build\app\outputs\flutter-apk\app-release.apk
+- **Download APK**: (https://github.com/AkhilRoni/todo-app-flutter/releases/download/v1.0/app-release.apk)
 
 *Replace the link with the actual link to your APK file.*
 
