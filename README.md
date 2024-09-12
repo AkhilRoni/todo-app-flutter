@@ -11,13 +11,6 @@ The Todo App is a simple and intuitive application developed using Flutter and F
 - **Mark Tasks as Complete**: Track your progress by marking tasks as complete.
 - **Real-Time Synchronization**: Your tasks are synchronized with Firebase in real-time.
 
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-
-*Replace the placeholder paths with the actual paths to your screenshot images.*
-
 ## Installation
 
 To set up the Todo App on your local machine, follow these steps:
